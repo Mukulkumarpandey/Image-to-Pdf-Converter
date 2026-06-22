@@ -119,12 +119,6 @@ You will see output indicating that the development server is active:
  * Running on http://127.0.0.1:5000
 ```
 
-### 7. Access the App
-Open your web browser and go to:
-[http://127.0.0.1:5000](http://127.0.0.1:5000)
-
----
-
 ## File Conversion Pipeline Explanation
 
 Here is how the application converts images behind the scenes:
