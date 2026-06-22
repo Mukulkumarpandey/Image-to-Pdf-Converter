@@ -80,13 +80,13 @@ python --version
 git clone https://github.com/Mukulkumarpandey/Image-to-Text Converter
 ```
 
-### 2. Extract Project & Open Terminal
+### 3. Extract Project & Open Terminal
 Open your terminal (PowerShell or command prompt on Windows, Terminal on macOS/Linux) and navigate to the project directory:
 ```bash
 cd "c:\Users\admin\Desktop\project\convert IMG into PDF"
 ```
 
-### 3. Create a Virtual Environment (Recommended)
+### 4. Create a Virtual Environment (Recommended)
 It is best practice to run Python apps inside a virtual environment to keep dependencies clean.
 
 * **Windows**:
@@ -100,13 +100,13 @@ It is best practice to run Python apps inside a virtual environment to keep depe
   source venv/bin/activate
   ```
 
-### 4. Install Dependencies
+### 5. Install Dependencies
 Install the required packages using the package manager `pip`:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Launch the Application
+### 6. Launch the Application
 Run the Flask server script:
 ```bash
 python app.py
@@ -119,7 +119,7 @@ You will see output indicating that the development server is active:
  * Running on http://127.0.0.1:5000
 ```
 
-### 6. Access the App
+### 7. Access the App
 Open your web browser and go to:
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
