@@ -77,7 +77,7 @@ python --version
 ```
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/Mukulkumarpandey/Image-to-Text Converter
+git clone https://github.com/Mukulkumarpandey/Image-to-Pdf Converter
 ```
 
 ### 3. Extract Project & Open Terminal
